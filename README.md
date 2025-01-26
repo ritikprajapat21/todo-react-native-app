@@ -1,6 +1,6 @@
-# Welcome to your Expo app 👋
+# Todo App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app). In this app, you can perform CRUD operations on todos.
 
 ## Get started
 
@@ -15,36 +15,10 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    ```bash
     npx expo start
    ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+## Demo
+![Screen 1](https://github.com/user-attachments/assets/7d7372da-b7ef-4415-a858-45f521c34333)
+![Screen 2](https://github.com/user-attachments/assets/c09b56c4-cf96-405e-a2b3-06c394d498ae)
+![Screen 3](https://github.com/user-attachments/assets/6dbbaef3-c3b6-4602-a172-8fae7aef2a90)
+![Screen 4](https://github.com/user-attachments/assets/af7e28c8-06b6-4a44-8f31-6abec206852e)
+![Screen 5](https://github.com/user-attachments/assets/9800e2e1-61b1-4695-8e48-fd5b5f7d692c)
+![Screen 6](https://github.com/user-attachments/assets/a3334721-42a7-4492-84af-0c6ab63ae73d)
