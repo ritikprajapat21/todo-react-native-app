@@ -38,6 +38,15 @@ export default function Index() {
     getTodos();
   }, []);
 
+  useEffect(() => {
+    const saveTodos = async () => {
+      const json = JSON.stringify(todos);
+      await AsyncStorage.setItem("todos", json);
+    };
+
+    saveTodos();
+  }, [todos]);
+
   const onClose = () => {
     setCreateModalVisible(false);
   };
